@@ -1,0 +1,4 @@
+streamlit>=1.39
+awswrangler>=3.9
+boto3
+pandas
